@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DeokWoo%20Ahn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=DeokWoo%20Ahn&fontSize=90)
 
 ## _👋 Hi there !_
 ### I'm **mobile app developer** using Android and IOS 👨‍💻 
