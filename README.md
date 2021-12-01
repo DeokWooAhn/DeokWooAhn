@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=DeokWoo%20Ahn&fontSize=90)
 
-<h3 align="left"> 👋 Hi there ! </h3>
+<!-- <h3 align="left"> 👋 Hi there ! </h3> -->
 <p align="left"> I'm <b>Android app developer</b> <!-- using Android and IOS --> 👨‍💻 </p>
 <!-- <p align="left"> I will be the best developer so I always try to grow 💪 </p> -->
 
