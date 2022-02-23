@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=DeokWoo%20Ahn&fontSize=90)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn&&show_icons=true&theme=radical)
 
 <!-- <h3 align="left"> 👋 Hi there ! </h3> -->
 <h2 align="left"> I'm <b>Android app developer</b> <!-- using Android and IOS --> 👨‍💻 </h2>
