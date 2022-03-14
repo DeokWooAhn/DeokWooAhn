@@ -14,7 +14,7 @@
 
 <h3 align="left"> 🌏 Contect </h3> 
 
-[![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thug_wooo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjrlvkdlxj@gmail.com) [![GitHub](https://img.shields.io/badge/tech%20blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://thuglife.tistory.com/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thug_wooo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjrlvkdlxj@gmail.com) [![GitHub](https://img.shields.io/badge/tech%20blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://thuglife.tistory.com/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://glowing-moss-599.notion.site/Android-App-Developer-1af0de8eec724f7fa4868420368ddf00)
 
 
 <!--
