@@ -1,7 +1,7 @@
-<h2 align="left"> I'm <b>Android app developer</b> <!-- using Android and IOS --> 👨‍💻<br><br>      
+<h2 align="left"> I'm <b>Android app developer</b></h2> <!-- using Android and IOS --> 👨‍💻<br><br>      
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokWooAhn&&show_icons=true&theme=radical) </h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokWooAhn&&show_icons=true&theme=radical)
 
 <!-- <h3 align="left"> 👋 Hi there ! </h3> -->
 <!-- <p align="left"> I will be the best developer so I always try to grow 💪 </p> -->
