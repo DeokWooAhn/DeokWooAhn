@@ -1,4 +1,3 @@
-<h2 align="left"> Hi there 👋</h2>
 <h3 align="left"> I'm <b>Android app developer</b> <!-- using Android and IOS --> 👨‍💻</h3><br><br>      
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokWooAhn&&show_icons=true&theme=radical)
