@@ -11,7 +11,7 @@
 
 <h2 align="left"> 🌏 Contect </h2> 
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://glowing-moss-599.notion.site/Android-App-Developer-1af0de8eec724f7fa4868420368ddf00) [![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_the9oo_/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjrlvkdlxj@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://glowing-moss-599.notion.site/Android-App-Developer-1af0de8eec724f7fa4868420368ddf00ㅋㅋㅋㅋ) [![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_the9oo_/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjrlvkdlxj@gmail.com)
 
 
 <!--
