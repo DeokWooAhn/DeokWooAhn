@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=ffffff"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokWooAhn&&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokWooAhn&show_icons=true&theme=react)
 
 
 <!--
