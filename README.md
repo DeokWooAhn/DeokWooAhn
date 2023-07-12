@@ -1,12 +1,11 @@
-Hi there👋</br> I'm <b>Android app developer</b> <!-- using Android and IOS --> 👨‍💻><br>      
+Hi there👋</br> I'm <b>Android app developer</b> <!-- using Android and IOS --> 👨‍💻<br>      
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokWooAhn&&show_icons=true&theme=radical)
 
 <!-- <h3 align="left"> 👋 Hi there ! </h3> -->
 <!-- <p align="left"> I will be the best developer so I always try to grow 💪 </p> -->
 
-<h2 align="left"> 🔨 Stack </h2>
-
+Interested in
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br><br> ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)<br><br> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 	
 
 <h2 align="left"> 🌏 Contect </h2> 
