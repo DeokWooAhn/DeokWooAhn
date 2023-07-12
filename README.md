@@ -1,5 +1,5 @@
 Hi there👋</br> I'm <b>Android app developer</b>👨‍💻<br>
-<a href="https://www.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://www.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
 
 - 🔭 I’m currently working on
   
